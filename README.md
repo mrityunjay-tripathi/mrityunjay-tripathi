@@ -1,16 +1,16 @@
-### Hi there 👋
+<h2 align = "center">Hello 👋, I'm Mrityunjay</h2>
 
+- 🏫 I’m a final year Computer Science undergrad.
+- 💻 I spend my time contributing to open source softwares and casually solve programming questions.
+- 🏂 I'm currently working on my project **Nearest Neighbor realization of Quantum Circuits**.
+- 💬 Ask me <b>how to escape fully fenced school</b> 👻.
+- ⚡ Fun fact: That's (👈) me :)
+</br>
+
+<p align="center"> 
+<img src=https://github-readme-stats.vercel.app/api?username=mrityunjay-tripathi&show_icons=true&hide_rank=true alt=mrityunjay-tripathi /> 
+</p>
 <!--
-**mrityunjay-tripathi/mrityunjay-tripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align=left> <img src=https://komarev.com/ghpvc/?username=mrityunjay-tripathi alt=mrityunjay-tripathi /> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrityunjay-tripathi&layout=compact)](https://github.com/mrityunjay-tripathi/)
 -->
