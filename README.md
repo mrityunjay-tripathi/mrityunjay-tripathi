@@ -7,6 +7,10 @@
 - ⚡ Fun fact: That's (👈) me :)
 </br>
 
+<!--
+#### My GitHub profile trophy:
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrityunjay-tripathi)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 <p align="center"> 
 <img src=https://github-readme-stats.vercel.app/api?username=mrityunjay-tripathi&show_icons=true&hide_rank=true alt=mrityunjay-tripathi /> 
 </p>
