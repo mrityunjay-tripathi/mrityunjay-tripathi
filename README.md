@@ -1,10 +1,7 @@
 <h2 align = "center">Hello 👋, I'm Mrityunjay</h2>
 
-- 🏫 I’m a final year Computer Science undergrad.
+- 🏫 I’m a Computer Science undergrad.
 - 💻 I spend my time contributing to open source softwares and casually solve programming questions.
-- 🏂 I'm currently working on my project **Nearest Neighbor realization of Quantum Circuits**.
-- 💬 Ask me <b>how to escape fully fenced school</b> 👻.
-- ⚡ Fun fact: That's (👈) me :)
 </br>
 
 <!--
