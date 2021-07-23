@@ -1,6 +1,6 @@
 <h2 align = "center">Hello 👋, I'm Mrityunjay</h2>
 
-- 🏫 I’m a Computer Science undergrad.
+- 🏫 I’m a Computer Science graduate.
 - 💻 I spend my time contributing to open source softwares and casually solve programming questions.
 </br>
 
